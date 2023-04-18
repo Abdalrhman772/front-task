@@ -1,0 +1,88 @@
+p {
+  /* position: absolute; */
+  width: 1203px;
+  height: 229px;
+  /* left: 118px;
+  top: 127px; */
+
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 75px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.my-img {
+  position: absolute;
+  width: 1200px;
+  height: 474px;
+  border-radius: 10px;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  top: 486px;
+  z-index: 55555;
+}
+
+.btns {
+  background: #00308f;
+  border-radius: 10px;
+  border: none;
+
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.booking {
+  /* position: absolute; */
+  width: 333px;
+  height: 60px;
+  left: 554px;
+  top: 399px;
+}
+
+.call-btn {
+  /* position: absolute; */
+  width: 219px;
+  height: 47px;
+  left: 1101px;
+  top: 21px;
+}
+
+.bottom-div {
+  position: absolute;
+  width: 100%;
+  height: 264px;
+  background-color: #00308f;
+  left: 0px;
+  top: 816px;
+}
+
+.fly {
+  position: absolute;
+  width: 62px;
+  height: 73px;
+  left: 500px;
+  top: 318px;
+}
+
+.flag {
+  position: absolute;
+  width: 50.27px;
+  height: 52.2px;
+  left: 1320px;
+  top: 354px;
+}
+
+.line {
+  position: absolute;
+  left: 62.5%;
+  top: 28%;
+  bottom: 0.01%;
+}
